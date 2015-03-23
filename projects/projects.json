@@ -3668,6 +3668,33 @@
         "Responsive",
         "RESTful"
       ]
+    },
+{
+      "name": "Happiness Hunt",
+      "thumb": "happinesshunt/thumb.png",
+      "desc": "Happiness Hunt is Product Hunt for happiness resources.",
+      "url": "http://happinesshunt.co",
+      "info": "http://happinesshunt.co",
+      "submitter": "ronenteva",
+      "submissionDate": "2015-03-23",
+      "tags": [
+        "Production",
+        "Node.js",
+        "Sails.js",
+        "jQuery",
+        "CRUD",
+        "Productivity",
+        "Bootstrap",
+        "Mobile",
+        "Responsive",
+        "RESTful",
+        "Restangular",
+        "Lifestyle",
+        "Shopping",
+        "Amazon API",
+        "Azure",
+        "MySQL"
+      ]
     }
 
   ]
